@@ -11,4 +11,6 @@ Made by using React, React Query, Axios & Chakra-UI.
 
 2. update `REACT_APP_API_KEY` in .env with your api key
 
-3. run the command => `npm install && npm start`
+3. run the command => npm install 
+
+3. run the command => npm start`
