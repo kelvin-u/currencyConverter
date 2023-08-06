@@ -13,4 +13,4 @@ Made by using React, React Query, Axios & Chakra-UI.
 
 3. run the command => npm install 
 
-3. run the command => npm start`
+3. run the command => npm start
