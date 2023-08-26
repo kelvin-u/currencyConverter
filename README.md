@@ -22,7 +22,6 @@ converts yo money so get it up fam
 ## Technical Overview
 
 CurrencyConverter technical architecture revolves around the synergy of real-time api's and the react framework. 
-
 The core components include:
 
 - **Fixer API:** Facilitates seamless currency conversion by providing real-time exchange rates and historical data.
