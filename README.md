@@ -1,16 +1,48 @@
+# Currency Converter: Money Money Money
 
-# Currency Converter
+![currencyConverter logo](https://github.com/kelvin-u/currencyConverter/blob/main/currencyConverter.png?raw=true)
 
-Made by using React, React Query, Axios & Chakra-UI.
+## Table of Contents
 
-![Screenshot from mobile view](https://user-images.githubusercontent.com/98729397/220971692-312de424-beeb-4d3c-b07c-526fd5eb9293.png)
+- [About](#about)
+- [Key Features](#key-features)
+- [Technical Overview](#technical-overview)
+- [Installation](#installation)
+- [Contact](#contact)
+- [License](#license)
 
-## How to run the project?
+## About
 
-1. grab your api key from [here](https://apilayer.com/marketplace/fixer-api)
+CurrencyConverter converts yo money so get it up fam
 
-2. update `REACT_APP_API_KEY` in .env with your api key
+## Key Features
 
-3. run the command => npm install 
+- filler
+- filler
+- filler
 
-3. run the command => npm start
+## Technical Overview
+
+CogniSign's technical architecture revolves around the synergy of computer vision and machine learning. The core components include:
+
+- **Fixer API:** Captures and processes real-time video feed, performs hand detection, and isolates the hand region.
+- **React Framework:** A meticulously designed neural network with convolutional and recurrent layers trained on an ASL dataset for accurate recognition.
+- **Real-time Processing:** Combines OpenCV and the neural network to instantly decipher ASL gestures, presenting them as letters and words.
+
+## Installation
+
+1. Get API Key [here](https://apilayer.com/marketplace/fixer-api) (just get the free plan :smile:)
+
+2. Clone the project ```git clone https://github.com/kelvin-u/currencyConverter.git```
+
+3. update `REACT_APP_API_KEY` in .env with your api key
+
+4. run the command ```npm install``` & ```npm start```
+
+## Contact
+Connect with me :wave:
+
+[LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com) | [Website](https://kelvinu.ca/)
+
+## License
+This project is licensed under the [MIT License](LICENSE)
