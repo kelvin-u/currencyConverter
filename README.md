@@ -17,9 +17,7 @@ converts yo money so get it up fam
 
 ## Key Features
 
-- filler
-- filler
-- filler
+- converts money yep
 
 ## Technical Overview
 
