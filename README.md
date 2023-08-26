@@ -21,7 +21,9 @@ converts yo money so get it up fam
 
 ## Technical Overview
 
-CurrencyConverter technical architecture revolves around the synergy of real-time api's and the react framework. The core components include:
+CurrencyConverter technical architecture revolves around the synergy of real-time api's and the react framework. 
+
+The core components include:
 
 - **Fixer API:** Facilitates seamless currency conversion by providing real-time exchange rates and historical data.
 - **React Framework:** Built dynamic user interfaces by efficiently managing component-based rendering and state changes.
@@ -38,7 +40,7 @@ CurrencyConverter technical architecture revolves around the synergy of real-tim
 4. Run the command ```npm install``` & ```npm start```
 
 ## Contact
-Connect with me :wave:
+:wave: Connect with me 
 
 [LinkedIn](https://www.linkedin.com/in/kelvin-u/) | [Email](mailto:yukaiwenn@gmail.com) | [Website](https://kelvinu.ca/)
 
